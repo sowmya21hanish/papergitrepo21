@@ -1,0 +1,2 @@
+first command by modified master
+added new line
